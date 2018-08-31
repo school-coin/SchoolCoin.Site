@@ -1,3 +1,16 @@
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+
 body{
   margin:0;
   font: normal 16px Arial, Helvetica, sand-serif;
