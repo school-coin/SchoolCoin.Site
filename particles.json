@@ -7,7 +7,7 @@
       "value":"#fff"
     },
     "shape":{
-      "type":"triangle",
+      "type":"circle",
       "stroke":{
         "width":1,
         "color":"#ccc"
