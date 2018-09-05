@@ -1,1 +1,1 @@
-# Welcome to SchoolCoin.Site
+# Welcome to SchoolCoin.blog
